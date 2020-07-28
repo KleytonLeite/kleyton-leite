@@ -4,7 +4,7 @@
 [![HitCount](http://hits.dwyl.com/KleytonLeite/kleyton-leite.svg)](http://hits.dwyl.com/KleytonLeite/kleyton-leite-git)
 
 <h1 align="center">
-  <img src="./assets/img/kleytonleite.png">
+  <img src="src/assets/img/kleytonleite.png">
 </h1>
 
 ## 📝 Description
