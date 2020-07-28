@@ -1,0 +1,67 @@
+{
+  "categorias": [
+    {
+      "titulo": "Divina Musica",
+      "link": "",
+      "cor": "#a32216",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Conheçam meus Projetos",
+          "url": "https://youtu.be/aXKghcRg5ZY",
+          "descricao": ""
+        },
+        {
+          "titulo": "Fly Me to the Moon + Lucky",
+          "url": "https://youtu.be/HTCDyR2ZNxo",
+          "descricao": "Sinatra/Jason Mraz & Colbie Caillat MASHUP Cover ft. Divina Música"
+        },
+        {
+          "titulo": " Want To Hold Your Hand",
+          "url": "https://youtu.be/jyrwhOtKfDY",
+          "descricao": "The Beatles (Cover ft. Divina Música)"
+        },
+        {
+          "titulo": "Blue Moon ",
+          "url": "https://youtu.be/P58fDeYnelA",
+          "descricao":"The Marcels / Frank Sinatra (Cover Ft. Divina Música)"
+        },
+        {
+          "titulo": "Chega de Saudade",
+          "url": "https://youtu.be/1cCn8_eP3CQ",
+          "descricao":"João Gilberto | Vinícius de Moraes e Tom Jobim (Cover Ft. Divina Música)"
+        }
+      ]
+    },
+    {
+      "titulo": "Louvor e Adoração ",
+      "cor": "#DAA520",
+      "videos": [
+        {
+          "titulo": "Live Adora Trindade",
+          "url": "https://youtu.be/OJJOOvqvJjw",
+          "descricao": "Live Adora Trindade"
+        },
+        {
+          "titulo": "Culto de consagração do calendário 2019",
+          "url": "https://youtu.be/9vRdISPA5xM",
+          "descricao": "Culto de consagração do calendário 2019"
+        }     
+      ]
+    },
+    {
+      "titulo": "Casamentos e Cerimonias",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Espaço Encanttu's Recepções e Eventos",
+          "url": "https://youtu.be/UQwrlLR3NZg",
+          "descricao": "Video Promocional com a Participaçõa da Divina Musica"
+        }
+      ]
+    }
+  ]
+}
