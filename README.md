@@ -1,7 +1,7 @@
 
 # Kleyton-Leite
 
-[![HitCount](http://hits.dwyl.com/KleytonLeite/KleytonLeite/kleyton-leite.svg)](http://hits.dwyl.com/KleytonLeite/KleytonLeite/kleyton-leite-git)
+[![HitCount](http://hits.dwyl.com/KleytonLeite/KleytonLeite/kleyton-leite.svg)](http://hits.dwyl.com/KleytonLeite/KleytonLeite/kleyton-leite)
 <h1 align="center">
   <img src="src/assets/img/kleytonleite.png">
 </h1>
