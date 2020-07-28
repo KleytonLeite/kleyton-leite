@@ -9,7 +9,7 @@
 
 ## 📝 Description
 
-**Kleyton-Leite** Projeto que apresenta um pagina pessoal com algums trabalhos musicais meu, nos keyborads Nord Electron 5D, Korg Microstation.
+**Kleyton-Leite** Projeto que apresenta um pagina pessoal com algums trabalhos musicais meu, nos keyborads Nord Electron 5D e Korg Microstation.
 
 ---
 
